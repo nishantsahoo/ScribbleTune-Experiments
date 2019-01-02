@@ -1,0 +1,14 @@
+{
+  "name": "sweet-child-o-mine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scribbletune": "^1.9.2"
+  }
+}
